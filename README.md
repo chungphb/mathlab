@@ -1,2 +1,3 @@
 # mathlab
-Some random MATLAB programs.
+
+Some matrix processing MATLAB programs.
