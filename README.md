@@ -1,3 +1,3 @@
 # mathlab
 
-Some matrix processing MATLAB programs.
+Four matrix processing MATLAB programs.
