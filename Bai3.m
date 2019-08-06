@@ -1,11 +1,11 @@
-file3 = fopen('Bai3.txt','wt');
-file1 = fopen('Bai1.txt','r');
+file3 = fopen('Bai3.txt', 'wt');
+file1 = fopen('Bai1.txt', 'r');
 i = 0;
 while ~feof(file1)
     if i==0 
         str = fgetl(file1);
         fprintf(file3, '%s\n', '#Sau khi sap xep ca ma tran:');
-        i = i+1;
+        i = i + 1;
     elseif i==1
         str = fgetl(file1);
         fprintf(file3, '\n');
