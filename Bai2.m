@@ -15,7 +15,7 @@ while ~feof(file1)
         d = sscanf(str, '%d', inf);
         i = i + 1;
         for j = 2:(length(d) - 1)
-            for k = (j+1):(length(d))
+            for k = (j + 1):length(d)
                 if d(j) > d(k)
                     tmp = d(j);
                     d(j) = d(k);
