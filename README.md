@@ -1,4 +1,4 @@
-# matlab-2015
+# matrices-processing-2015
 **Nội dung:** Một số chương trình xử lý ma trận được viết trên MATLAB.
  - **Bai1.m:** Chương trình sinh dữ liệu ma trận. Trong đó: Số hàng và số cột được nhập từ bàn phím; các phần tử ma trận là các số ngẫu nhiên trong phạm vi 1000.
  - **Bai1.txt:** Tệp dữ liệu lưu ma trận được sinh bởi chương trình 1.
